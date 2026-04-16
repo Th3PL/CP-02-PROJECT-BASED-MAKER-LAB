@@ -81,14 +81,14 @@ Além da montagem, foram realizadas medições com paquímetro das principais pe
 ### 🔹 Passo 1 – Posicionamento das Engrenagens
 Colocar as engrenagens simples nos nos 5 pinos da base.
 
-![Passo 1](img/1.jpeg)
+![Passo 1](img/instrucoes/1.jpeg)
 
 ---
 
 ### 🔹 Passo 2 – Preparação da Base
 Colocar as engrenagens de ponta quadrada nos encaixes laterais da base.
 
-![Passo 2](img/2.jpeg)
+![Passo 2](img/instrucoes/2.jpeg)
 
 ---
 
@@ -96,33 +96,33 @@ Colocar as engrenagens de ponta quadrada nos encaixes laterais da base.
 ### 🔹 Passo 3 – Inserção da Engrenagem Central
 Adicionar a engrenagem com eixo no centro da estrutura.
 
-![Passo 3](img/3.jpeg)
+![Passo 3](img/instrucoes/3.jpeg)
 
 ---
 
 ### 🔹 Passo 4 – Montagem dos Componentes Móveis
-EAdicionar a tampa formando o mecanismo interno.
+Adicionar a tampa formando o mecanismo interno.
 
-![Passo 4](img/4.jpeg)
+![Passo 4](img/instrucoes/4.jpeg)
 
 ### 🔹 Passo 5 – Montagem dos Componentes Móveis
 Encaixar os componentes móveis formando o mecanismo interno.
 
-![Passo 5](img/5.jpeg)
+![Passo 5](img/instrucoes/5.jpeg)
 
 ---
 
 ### 🔹 Passo 6 – Fechamento com Disco Superior
 Posicionar o disco superior alinhando os encaixes.
 
-📷 ![Passo 6](img/6.jpg)
+ ![Passo 6](img/instrucoes/6.jpeg)
 
 ---
 
 ### 🔹 Passo 7 – Fixação Final
 rosqueie o encaixe superior até fixar completamente.
 
-📷 ![Passo 7](img/7.jpeg)
+ ![Passo 7](img/instrucoes/7.jpg)
 
 ---
 
@@ -141,19 +141,23 @@ O mecanismo funciona através da transmissão de movimento entre as engrenagens.
 ## 🧱 Modelagem 3D
 Uma das peças do conjunto foi modelada em 3D utilizando software CAD.
 
-📁 ![Engrenagem]()
+📁 [Engrenagem](./engrenagem-cp2.scad)
 
 ---
 
 ## 📸 Registro da Montagem
-As imagens do passo a passo estão disponíveis neste repositório para facilitar a compreensão do processo.
+ ![Passo 7](img/montagem/1.jpg)
+ ![Passo 7](img/montagem/2.jpg)
+ ![Passo 7](img/montagem/3.jpg)
+ ![Passo 7](img/montagem/4.jpg)
 
 ---
 
 ## 👨‍💻 Integrantes
 | Nome                                | RM       |
 |-------------------------------------|----------|
+| 🍙 Fernanda Kaory Saito             | RM551104 |
 | ⚡ João Pedro Borsato Cruz          | RM550294 |
 | 💫 Maria Fernanda Vieira de Camargo | RM97956  |
 | 🚀 Pedro Lucas de Andrade Nunes     | RM550366 |
-| 🍙 Fernanda Kaory Saito             | RM551104 |
+
